@@ -1,5 +1,8 @@
 <customer>
 	<name>Amrita Ghosh</name>
 	<state>West Bengal</state>
+<<<<<<< HEAD
 	<age>24</age>
+=======
+>>>>>>> Gitwork
 </customer>
